@@ -38,7 +38,7 @@ Commit the changes using git commands and upload the file to your github account
 # Output:
 Airport
 
-![output](Airport1.png/)
+![output](./Airport1.png)
 
 park
 
@@ -54,7 +54,7 @@ Thamos mount
 
 vetri Cinemas
 
-![output](./Vetri1.png)
+![output](./Thomas1.png)
 
 
 # Result:
